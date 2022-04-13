@@ -26,16 +26,16 @@ This notebook implements parts B and C of fourth step of Neal's SDSM
 4B Apply thi interlocking world city network model to these simulated data to obtain a possible world city network
 4C Compute a statistic of interest from the possible world city network
 
-##Data
+## Data
 The data demonstrates presence of the global service companies in the former USSR region. 
 
 "Data tracking 2018" contains information about scores of each office type in each company in 2018. The principles are similar to 2015.
 "Output by sector_2015 and 18" contains connectivity by city and by sector in 2015 and 2018, but only for the cities, represented in both 2015 and 2018 networks.
 
-###RawData
+### RawData
 "raw_data_2015|raw_data_2018" excel files with initial city-firm matrix
 
-###BySectors
+### BySectors
 "Data_Advertising" contains data about office structures of global advertising companies in FSU in 2018, each location is rated by it's size and significance in the corporate networks. Also, the data about number of partner offices for companies with large  partnership structures: WPP, Omnicon, and Dentsu, is provided. The locations of global HQs and links of the corporate websites for each company are provided, too.
 "Data_Insurance_final" contains data about office structures of global insurance companies in FSU in 2018, each location is rated by it's size and significance in the corporate networks. Also, the data about number of partner offices for VIG company is represented. The locations of global HQs and links of the corporate websites for each company are provided, too.
 "Data_Management_final" contains data about office structures of global management companies in FSU in 2018, each location is rated by it's size and significance in the corporate networks. Also, the data about number of partner offices for companies with large  partnership structures: IBM and Marsh&Maclennan, is provided. The locations of global HQs and links of the corporate websites for each company are provided, too.
