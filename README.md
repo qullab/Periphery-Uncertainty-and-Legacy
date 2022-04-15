@@ -12,6 +12,9 @@ This notebook implements the first two steps of the  Neal's SDSM:
 2. Factors Impacting Firm Expansion & Location Decisions  
     A. Capacity Expand: Number of each size office operated by each firm.  
     B. Site Attractiveness: Number of each size operated in each city.  
+3. Firm Expansion and Location Decistion Making
+	A. Estimate a logistic regression that uses
+	B. User the fitter model to compure
   
 ### /code/ordered_logistic_regression_1.r  
 This r file implements third step and part A of fourth step of the Neal's SDSM  
