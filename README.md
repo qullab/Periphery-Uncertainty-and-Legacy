@@ -48,5 +48,3 @@ The data demonstrates presence of the global service companies in the former USS
 "Data_Banking_final" contains data about office structures of global banking companies in FSU in 2018, each location is rated by it's size and significance in the corporate networks. Also, the data about number of partner offices for companies with large  partnership structures: UniCredit and Societe Generale is provided. The locations of global HQs and links of the corporate websites for each company are provided, too.
 
 "Data_Law_final" contains data about office structures of global law companies in FSU in 2018, each location is rated by it's size and significance in the corporate networks.  The locations of global HQs and links of the corporate websites for each company are provided, too.
-
-"Data tracking 2018" contains information about scores of each office type in each company in 2018. The principles are similar to 2015. 
