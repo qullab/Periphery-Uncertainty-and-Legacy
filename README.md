@@ -23,7 +23,7 @@ This r file implements third step and part A of fourth step of the Neal's SDSM
   
 ### /code/matrix_processing_2.ipynb    
 This notebook implements parts B and C of fourth step of Neal's SDSM  
-   4B. Apply thi interlocking world city network model to these simulated data to obtain a possible world city network  
+   4B. Apply the interlocking world city network model to these simulated data to obtain a possible world city network  
    4C. Compute a statistic of interest from the possible world city network  
 
 ## Data
