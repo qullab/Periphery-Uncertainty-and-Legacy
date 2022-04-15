@@ -16,9 +16,6 @@ This notebook implements the first two steps of the  Neal's SDSM:
   
 ### /code/ordered_logistic_regression_1.r  
 This r file implements third step and part A of fourth step of the Neal's SDSM  
-3. Firm Expansion and Location Decistion Making  
-	A. Estimate a logistic regression that uses.  
-	B. User the fitter model to compure.  
 3. Firm Expansion and Location Decision Making  
 	A. Estimate a logistic regression that uses 2.A and 2.B to predict firm's locations in cities.  
     B. Use the fitted model to compute the probability that firm f would open an office of size s in city c.  
