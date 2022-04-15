@@ -15,7 +15,7 @@ This notebook implements the first two steps of the  Neal's SDSM:
 
   
 ### /code/ordered_logistic_regression_1.r  
-This r file implements third step and part A of fourth step of the Neal's SDSM
+This r file implements third step and part A of fourth step of the Neal's SDSM  
 3. Firm Expansion and Location Decistion Making  
 	A. Estimate a logistic regression that uses.  
 	B. User the fitter model to compure.  
